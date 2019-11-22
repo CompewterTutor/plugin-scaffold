@@ -1,8 +1,7 @@
-reaktivstudios/plugin-scaffold
+compewtertutor/plugin-scaffold
 ==============================
 
-Adds a custom plugin scaffold
-
+Adds a custom plugin scaffold from reaktivstudios originally
 
 
 Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contributing) | [Support](#support)
@@ -17,7 +16,7 @@ Installing this package requires WP-CLI v1.1.0 or greater. Update to the latest 
 
 Once you've done so, you can install this package with:
 
-    wp package install git@github.com:reaktivstudios/plugin-scaffold.git
+    wp package install git@github.com:compewtertutor/plugin-scaffold.git
 
 ## Contributing
 
@@ -37,7 +36,7 @@ Once you’ve done a bit of searching and discovered there isn’t an open or fi
 
 ### Creating a pull request
 
-Want to contribute a new feature? Please first [open a new issue](https://github.com/reaktivstudios/plugin-scaffold/issues/new) to discuss whether the feature is a good fit for the project.
+Want to contribute a new feature? Please first [open a new issue](https://github.com/compewtertutor/plugin-scaffold/issues/new) to discuss whether the feature is a good fit for the project.
 
 Once you've decided to commit the time to seeing your pull request through, [please follow our guidelines for creating a pull request](https://make.wordpress.org/cli/handbook/pull-requests/) to make sure it's a pleasant experience. See "[Setting up](https://make.wordpress.org/cli/handbook/pull-requests/#setting-up)" for details specific to working on this package locally.
 
